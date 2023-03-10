@@ -1,0 +1,60 @@
+{
+    "playlist":[
+        {
+            "name":"Bein",
+            "sublist":[ 
+                 {
+                "channel": "beIN PREMIUM 1 OsOs   24Hours",
+                "url": "http://62.138.18.19:11001/live/beinp1.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN PREMIUM 2 OsOs",
+                "url": "http://62.138.18.19:11001/live/beinp2.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN PREMIUM 3 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein3.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 1 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein1.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 2 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein2.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 3 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein3.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 4 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein4.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 5 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein5.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 6 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein6.ts?uid=ipaudio"
+            },
+            {
+                "channel": "beIN SPORTS 7 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein7.ts?uid=ipaudio"
+    
+            }
+        ]
+        },
+        {
+            "name":"SSC",
+            "sublist":[ 
+                 {
+                "channel": "SSC SPORTS 7 OsOs",
+                "url": "http://62.138.18.19:11001/live/bein7.ts?uid=ipaudio"
+    
+            }
+        ]
+        }
+    ]
+}
